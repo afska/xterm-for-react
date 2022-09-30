@@ -1,6 +1,6 @@
 {
 	"name": "xterm-for-react",
-	"version": "1.0.2",
+	"version": "1.0.0",
 	"description": "A React wrapper made for XTerm.js",
 	"main": "dist/bundle.js",
 	"types": "dist/src/index.d.ts",
@@ -104,6 +104,6 @@
 	],
 	"dependencies": {
 		"prop-types": "^15.7.2",
-		"xterm": "^4.5.0"
+		"xterm": "^4.19.0"
 	}
 }
